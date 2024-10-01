@@ -14,4 +14,7 @@ for number in range(1, 101):
         print ("Buzz")    
     # nahi to num print krega 
     else:
-        print(number)    
+        print(number) 
+           
+        list =  ["manjeet","jkhh","nbfjdshf"]
+        print(list)

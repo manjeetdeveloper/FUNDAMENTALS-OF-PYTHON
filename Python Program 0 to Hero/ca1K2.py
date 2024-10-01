@@ -9,13 +9,13 @@
 #     ......
 #     1 * 10 = 10
 
-# 2 ka table :-
-#      2 * 1 = 2
+#     2 ka table :-
+#     2 * 1 = 2
 #     2 * 2 = 4
 #     2 * 3 = 6
 #     ......
 #     2 * 10 = 20
-# ... like this 
+#     like this 
 for i in range(1,11):
     print(f" Multiplication table {i}: ")
     # j inner loop  esliye liye hai ki multiplication 2 number ke bich hota hai 

@@ -1,0 +1,1 @@
+# Asking the user for a value to check its availability
