@@ -1,1 +1,2 @@
-# Asking the user for a value to check its availability
+setC = setA.intersection(setB)
+# print(setC)
